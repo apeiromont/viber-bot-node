@@ -1,6 +1,4 @@
-"use strict";
-
-module.exports = {
+export default {
 	MESSAGE_RECEIVED: "message",
 	MESSAGE_SENT: "message_sent",
 	SUBSCRIBED: "subscribed",

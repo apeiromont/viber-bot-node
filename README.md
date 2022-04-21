@@ -659,9 +659,3 @@ const SAMPLE_KEYBOARD = {
 
 const message = new KeyboardMessage(SAMPLE_KEYBOARD, [optionalTrackingData]);
 ```
-
-## Sample project
-We've created the [Is It Up sample project](https://github.com/Viber/sample-bot-isitup) to help you get started.
-
-## Community
-Join the conversation on **[Gitter](https://gitter.im/viber/bot-node)**.

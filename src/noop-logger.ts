@@ -1,8 +1,6 @@
-"use strict";
-
 function dummy() {}
 
-module.exports = {
+export default {
 	info: dummy,
 	debug: dummy,
 	warn: dummy,

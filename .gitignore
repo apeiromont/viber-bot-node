@@ -1,3 +1,5 @@
+*.tsbuildinfo
+dist/
 .DS_Store
 thumbs.db
 *.log
